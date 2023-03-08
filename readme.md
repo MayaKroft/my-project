@@ -1,0 +1,1 @@
+[![Run Tests](https://github.com/MayaKroft/my-project/actions/workflows/run_tests.yml/badge.svg)](https://github.com/MayaKroft/my-project/actions/workflows/run_tests.yml)
